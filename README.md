@@ -13,7 +13,7 @@ Suseli is a text-to-speech model for the Nepali language, being built for:
 - **Small and fast** (सानो र छिटो): a compact version that runs on a laptop processor or a phone.
 
 This repository will hold the inference code. The model will be published at
-[huggingface.co/Fiste/suseli](https://huggingface.co/Fiste/suseli).
+[huggingface.co/fiste-ai/suseli](https://huggingface.co/fiste-ai/suseli).
 
 ## The name
 
