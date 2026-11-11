@@ -1,6 +1,6 @@
 # Suseli (सुसेली)
 
-**Natural Nepali text-to-speech by [Fiste AI](https://fiste-ai.github.io). In development.**
+**Natural Nepali text-to-speech by [Fiste AI](https://fiste-ai.github.io/suseli/). In development.**
 
 ![Suseli by Fiste AI](https://fiste-ai.github.io/assets/og.png)
 
