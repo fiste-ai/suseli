@@ -24,3 +24,8 @@ Nepal; the सुसेली फिस्टो is the Whistler's warbler.
 
 A voice belongs to a person. Suseli will create a new voice only from recordings the user has the right to use, and
 its license will forbid impersonation and fraud.
+
+## Early access
+
+Want a Nepali voice for your product, or a voice built with you? Tell us what you need:
+**[ask for early access](https://fiste-ai.github.io/contact/)** · <fistelabs@gmail.com>
